@@ -5,16 +5,17 @@ Full-stack engineer building scalable frontend systems and real-time web applica
 ---
 
 ## 🛠️ Tech Stack
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0f172a?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-0f172a?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-0f172a?style=flat&logo=next.js)
 ![Vite](https://img.shields.io/badge/-Vite-0f172a?style=flat&logo=vite)
 ![Node.js](https://img.shields.io/badge/-Node.js-0f172a?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-0f172a?style=flat&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-0f172a?style=flat&logo=express)
 ![.NET](https://img.shields.io/badge/-.NET-0f172a?style=flat&logo=dotnet)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-0f172a?style=flat&logo=socketdotio)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0f172a?style=flat&logo=antdesign)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0f172a?style=flat&logo=tailwindcss)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0f172a?style=flat&logo=githubactions)
 
 ---
 
