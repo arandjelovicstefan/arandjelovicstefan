@@ -24,7 +24,7 @@ Full-stack engineer building scalable frontend systems and real-time web applica
 <div align="center">
 
 <!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arandjelovicstefan&theme=github-light-blue&hide_border=true&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6&dates=6A3D7D" width="70%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arandjelovicstefan&hide_border=true&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6&dates=6A3D7D" width="70%" alt="GitHub Streak" />
 
 </div>
 
