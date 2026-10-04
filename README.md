@@ -23,39 +23,19 @@ Full-stack engineer building scalable frontend systems and real-time web applica
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=arandjelovicstefan&theme=dark&hide_border=true&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=arandjelovicstefan&theme=default&hide_border=true&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=arandjelovicstefan&theme=default&hide_border=true&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6"
-    width="70%"
-    alt="GitHub Streak"
-  />
-</picture>
+<img
+  src="https://streak-stats.demolab.com/?user=arandjelovicstefan&hide_border=true&background=00000000&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6&currStreakNum=24292F&sideNums=24292F&dates=57606A&stroke=D0D7DE"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=dark&title_color=9B59B6&icon_color=8A2BE2&chart_color=8A2BE2"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=default&title_color=8A2BE2&icon_color=8A2BE2&chart_color=8A2BE2"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=github"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-</picture>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=transparent&title_color=8A2BE2&text_color=57606A&icon_color=8A2BE2&chart_color=8A2BE2&bg_color=00000000&border_color=00000000"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
