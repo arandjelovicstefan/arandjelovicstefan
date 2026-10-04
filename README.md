@@ -24,7 +24,7 @@ Full-stack engineer building scalable frontend systems and real-time web applica
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=arandjelovicstefan&hide_border=true&background=00000000&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6&currStreakNum=24292F&sideNums=24292F&dates=57606A&stroke=D0D7DE"
+  src="https://streak-stats.demolab.com/?user=arandjelovicstefan&hide_border=true&background=00000000&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6&currStreakNum=8A2BE2&sideNums=8A2BE2&dates=7D8590&stroke=8C959F"
   width="70%"
   alt="GitHub Streak"
 />
@@ -32,10 +32,9 @@ Full-stack engineer building scalable frontend systems and real-time web applica
 <br/><br/>
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=transparent&title_color=8A2BE2&text_color=57606A&icon_color=8A2BE2&chart_color=8A2BE2&bg_color=00000000&border_color=00000000"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=transparent&title_color=8A2BE2&text_color=7D8590&icon_color=8A2BE2&chart_color=8A2BE2&bg_color=00000000&border_color=00000000"
   width="95%"
   alt="GitHub Activity Graph"
 />
 
 </div>
-
