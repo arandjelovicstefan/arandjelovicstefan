@@ -33,22 +33,11 @@ Full-stack engineer building scalable frontend systems and real-time web applica
 <div align="center">
 
 <!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arandjelovicstefan&theme=github-compact&hide_border=true&color=9B59B6&line=8A2BE2&point=c9d1d9&area=true&area_color=2E1A47" width="95%" alt="Activity Graph" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=github_dark&title_color=9B59B6&text_color=c9d1d9&icon_color=8A2BE2&chart_color=8A2BE2&bg_color=0d1117&border_color=00000000"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
-
-<!--
-**arandjelovicstefan/arandjelovicstefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
