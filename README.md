@@ -24,7 +24,7 @@ Full-stack engineer building scalable frontend systems and real-time web applica
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=arandjelovicstefan&hide_border=true&background=00000000&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6"
+  src="https://streak-stats.demolab.com/?user=arandjelovicstefan&hide_border=true&background=00000000&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6&currStreakNum=666666&sideNums=666666&dates=7D8590&stroke=7D8590"
   width="70%"
   alt="GitHub Streak"
 />
