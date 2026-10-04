@@ -44,11 +44,11 @@ Full-stack engineer building scalable frontend systems and real-time web applica
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=github_dark&title_color=9B59B6&icon_color=8A2BE2&chart_color=8A2BE2"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=dark&title_color=9B59B6&icon_color=8A2BE2&chart_color=8A2BE2"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=github&title_color=8A2BE2&icon_color=8A2BE2&chart_color=8A2BE2"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=default&title_color=8A2BE2&icon_color=8A2BE2&chart_color=8A2BE2"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=github"
