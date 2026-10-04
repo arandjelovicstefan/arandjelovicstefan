@@ -23,21 +23,39 @@ Full-stack engineer building scalable frontend systems and real-time web applica
 
 <div align="center">
 
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arandjelovicstefan&hide_border=true&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6&dates=6A3D7D" width="70%" alt="GitHub Streak" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=arandjelovicstefan&theme=dark&hide_border=true&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=arandjelovicstefan&theme=default&hide_border=true&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=arandjelovicstefan&theme=default&hide_border=true&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6"
+    width="70%"
+    alt="GitHub Streak"
+  />
+</picture>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<!-- Activity graph -->
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=github_dark&title_color=9B59B6&text_color=c9d1d9&icon_color=8A2BE2&chart_color=8A2BE2&bg_color=0d1117&border_color=00000000"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=github_dark&title_color=9B59B6&icon_color=8A2BE2&chart_color=8A2BE2"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=github&title_color=8A2BE2&icon_color=8A2BE2&chart_color=8A2BE2"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arandjelovicstefan&theme=github"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
+</picture>
 
 </div>
 
