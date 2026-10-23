@@ -1,6 +1,7 @@
 # Arandjelovic Stefan
 
-Full-stack engineer building scalable frontend systems and real-time web applications using TypeScript and modern web technologies.
+Full-stack software engineer focused on React, TypeScript, and modern web architecture.                      
+Experienced in building production applications, real-time systems, and backend services.
 
 ---
 
